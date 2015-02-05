@@ -1,9 +1,7 @@
 body {
 	background-image: url("img/back.png");
 	background-color: #cccccc;
-	
-	
-	font_family = Arial,"Lucida Sans Unicode";
+	font-family: Calibri;
 	line-height: 1.5;
 	text-align: left;
 }
@@ -177,8 +175,4 @@ margin-bottom: 5%;
 .footerinfo {
 color:#999;
 font-style:italic;
-}
-
-.page h1.format-icon:before {
-content: none;
 }
