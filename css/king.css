@@ -178,3 +178,7 @@ margin-bottom: 5%;
 color:#999;
 font-style:italic;
 }
+
+.page h1.format-icon:before {
+content: none;
+}
