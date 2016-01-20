@@ -87,10 +87,9 @@ text-align:justify;
 line-height:1.5;
 width: 55%;
 float: left;
-border-radius: 5px;
--moz-border-radius: 5 px;
--webkit-border-radius: 5 px;
-margin-bottom:2%;
+border-radius: 2%;
+-moz-border-radius: 2%;
+-webkit-border-radius: 2%;
 
 }
 
@@ -100,10 +99,9 @@ text-align:justify;
 line-height:1.5;
 width: 55%;
 float:left;
-margin-top: 3%;
-border-radius: 5px;
--moz-border-radius: 5 px;
--webkit-border-radius: 5 px;
+border-radius: 2%;
+-moz-border-radius: 2%;
+-webkit-border-radius: 2%;
 }
 
 .thirdpost {
