@@ -98,7 +98,7 @@ background-color : #FFF;
 text-align:justify;
 line-height:1.5;
 width: 55%;
-float:left;
+float: left;
 border-radius: 2%;
 -moz-border-radius: 2%;
 -webkit-border-radius: 2%;
@@ -127,7 +127,6 @@ border-radius: 2%;
 .topbottom {
 width: 31%;
 float: right;
-margin-top: 3%;
 background-color: #FFF;
 border-radius: 2%;
 -moz-border-radius: 2%;
@@ -136,7 +135,6 @@ border-radius: 2%;
 
 .bottom {
 width: 31%;
-height: auto;
 float: right;
 background-color: #FFF;
 border-radius:2%;
